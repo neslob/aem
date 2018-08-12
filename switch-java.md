@@ -18,6 +18,6 @@
   export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
   export JAVA_HOME=$(/usr/libexec/java_home -v 1.7)
 
-## permanently (add to .bashrc)
+## permanently (add to .bashrc || .bash_profile)
 
   export JAVA_HOME=$(/usr/libexec/java_home -v 1.7)
